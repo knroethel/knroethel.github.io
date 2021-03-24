@@ -1,10 +1,7 @@
-[KNRoethel's Homepage](knroethel.github.io/main)
+## Welcome to KNRoethel's Homepage!
+### Links
 
-## IMGD 2900 - Team SEEB
-### Members: Kirsten Roethel
-
-### Assignment A09
-*Coming Soon*
+IMGD-2900: Digital Game Design I
 
 
 
