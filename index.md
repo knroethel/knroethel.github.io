@@ -1,4 +1,4 @@
-[KNRoethel's Homepage](knroethel.github.io)
+[KNRoethel's Homepage](knroethel.github.io/index.md)
 
 ## IMGD 2900 - Team SEEB
 ### Members: Kirsten Roethel
