@@ -1,3 +1,4 @@
+![bee_logo](https://user-images.githubusercontent.com/81327072/112554606-00ef5980-8d9d-11eb-8a93-93e00320729a.png)
 # Team Bee  
 ## Members: Kirsten Roethel  
 
