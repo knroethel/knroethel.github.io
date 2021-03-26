@@ -5,7 +5,7 @@
 
 -----------
 
-### Here are some of my projects!
+### Here are links to some of my projects!
 
 -----------
 
