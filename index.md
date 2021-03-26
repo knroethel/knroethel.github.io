@@ -15,4 +15,3 @@
 #### **Assignment 09: Modded Sample Toy**  
 #### *Coming Soon!*
 
-[TEST](file:///Users/kirstenroethel/Desktop/Lecture_Game/game.html)
