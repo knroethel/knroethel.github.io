@@ -6,7 +6,7 @@
 -----------
 
 ### Here are links to some of my projects!
-
+ 
 -----------
 
 ### IMGD-2900: Digital Game Design I ### 
