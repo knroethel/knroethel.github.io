@@ -15,5 +15,3 @@
 #### **Assignment 09: Modded Sample Toy**  
 #### *Coming Soon!*
 
-
-[TEST](https://github.com/knroethel/knroethel.github.io/files/6212114/Lecture_Game.zip)
